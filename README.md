@@ -31,6 +31,6 @@
 
 ## Others
 
-* [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
-* [Educative](https://www.educative.io/)
+* [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp) 無料のプログラミング講座集．多くの人の支持を集める．
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) GitやDocker, Redis といったアプリを自分で作ることを通してプログラミングを深く学ぶ.
+* [Educative](https://www.educative.io/) ハンズオン講座が充実している印象．
