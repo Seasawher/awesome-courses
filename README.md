@@ -33,3 +33,4 @@
 
 * [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
 * [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+* [Educative](https://www.educative.io/)
